@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Yulmii's GitHub stats](https://github-readme-stats.vercel.app/api?username=yulmii)](https://github.com/yulmii/github-readme-stats)
 <!--
 **yulmii/yulmii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
