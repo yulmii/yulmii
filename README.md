@@ -2,8 +2,7 @@
 
 
 ![Yulmii's GitHub stats](https://github-readme-stats.vercel.app/api?username=yulmii&show_icons=true&theme=radical)
-![Yulmii's GitHub stats](https://github-readme-stats.vercel.app/api?username=yulmii)](https://github.com/yulmii/github-readme-stats)
-<!--
+![Yulmii's GitHub stats](https://github-readme-stats.vercel.app/api?username=yulmii)
 **yulmii/yulmii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
